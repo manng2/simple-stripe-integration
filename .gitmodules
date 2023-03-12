@@ -1,0 +1,6 @@
+[submodule "api"]
+	path = api
+	url = https://github.com/manng2/nodejs-integrate-stripe.git
+[submodule "webapp"]
+	path = webapp
+	url = https://github.com/manng2/react-integrate-stripe.git
